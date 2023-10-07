@@ -10,8 +10,7 @@
 <p align="center">
     <a href="https://committers.top/egypt#ORGNAME" target="_blank"> <img src="https://enfsgag3ayy6w9q.m.pipedream.net"
             alt="Abdelrahman" target="_blank" , width=46% /> </a>
-    <img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=555555&labelColor=000000&style=for-the-badge"
-        alt="Abdelrahman" width=5.2% />
+    <img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=555555&labelColor=000000&style=for-the-badge" alt="Abdelrahman" width=19.5% />
 </p>
 
 
@@ -231,63 +230,6 @@ at [Banha University].
     </a>
 </p>
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
-
-<details>
-    <summary>
-        <h3> 🔥 Streak Stats</h3>
-    </summary>
-
-    ----
-    <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="Abdelrahman" /></p>
-
-</details>
-
-<details>
-    <summary>
-        <h3>💻 GitHub Profile Stats</h3>
-    </summary>
-
-    ----
-
-    <p align="center">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img alt="Abdelrahman's Github Stats"   src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px" />
-        </a>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px" />
-        <br />
-        <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect
-        experience or skill level.
-    </p>
-</details>
-
-<details>
-    <summary>
-        <h3>⚡ Recent GitHub Activity</h3>
-    </summary>
-
-    ----
-
-    <img  src="https://github-readme-activity-graph.vercel.app/graph?username=7oSkaaa&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
-
-</details>
-
-<details>
-    <summary>
-        <h3> :trophy: Git profile Trophies </h3>
-    </summary>
-
-    ----
-
-    <p align="center">
-        <a href="https://www.holopin.io/@abdelrahmanmagdii">
-        <img  src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15"   alt="7oskaaa" /></a> 
-    </p>
-
-    [![An image of @abdelrahmanmagdii's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abdelrahmanmagdii)](https://holopin.io/@abdelrahmanmagdii)
-
-
-</details>
 
 </br></br>
 
