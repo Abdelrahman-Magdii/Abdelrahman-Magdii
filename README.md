@@ -29,7 +29,7 @@ at [Banha University].
 - :student: I’m currently learning `Computer Science` and ` Sciencetfic Computing` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :boom: You can visit [MY WEBSITE](link).
 <br>
 
 
@@ -84,7 +84,7 @@ me
     src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
     width="3%"> My Skills
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%>
+##<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%>
 Programming languages
 
 <p align="center">
@@ -234,14 +234,11 @@ Tools
 
 <p align="center">
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img alt="Quote"
-            src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+        <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
     </a>
 </p>
 
-## <img
-    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif"
-    width=5% valign="bottom"> Github Stats
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 
 <details>
     <summary>
@@ -249,9 +246,7 @@ Tools
     </summary>
 
     ----
-
-    <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo"
-            alt="7oSkaaa" /></p>
+    <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="Abdelrahman" /></p>
 
 </details>
 
@@ -264,13 +259,10 @@ Tools
 
     <p align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img alt="7oSkaaa's Github Stats"
-                src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact"
-                height="230px" /></a>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&theme=tokyonight"
-            alt="7oSkaaa" height="230px" />
+            <img alt="Abdelrahman's Github Stats"   src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px" />
+        </a>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px" />
         <br />
-
         <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect
         experience or skill level.
     </p>
@@ -283,8 +275,7 @@ Tools
 
     ----
 
-    <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=7oSkaaa&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
+    <img  src="https://github-readme-activity-graph.vercel.app/graph?username=7oSkaaa&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
 
 </details>
 
@@ -295,15 +286,17 @@ Tools
 
     ----
 
-    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-                src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15"
-                alt="7oskaaa" /></a> </p>
+    <p align="center">
+        <a href="https://www.holopin.io/@abdelrahmanmagdii">
+        <img  src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15"   alt="7oskaaa" /></a> 
+    </p>
 
-    [![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)
+    [![An image of @abdelrahmanmagdii's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abdelrahmanmagdii)](https://holopin.io/@abdelrahmanmagdii)
+
 
 </details>
 
-<details>
+<!-- <details>
     <summary>
         <h3> :open_file_folder: My Repositories </h3>
     </summary>
@@ -394,7 +387,7 @@ Tools
             </a>
         </p>
     </div>
-</details>
+</details> -->
 
 </br></br>
 
