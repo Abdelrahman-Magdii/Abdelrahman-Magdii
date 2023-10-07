@@ -10,7 +10,7 @@
 <p align="center">
     <a href="https://committers.top/egypt#ORGNAME" target="_blank"> <img src="https://enfsgag3ayy6w9q.m.pipedream.net"
             alt="Abdelrahman" target="_blank" , width=46% /> </a>
-    <img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=555555&labelColor=000000&style=for-the-badge" alt="Abdelrahman" width=19.5% />
+    <img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=555555&labelColor=000000&style=for-the-badge" alt="Abdelrahman" width=19.40% />
 </p>
 
 
@@ -20,8 +20,7 @@
 
 <br><br>
 - :school: I am a `Fresh Graduate` from the [Faculty of Computers &
-Informatics](https://fci.bu.edu.eg/)
-at [Banha University].
+Informatics](https://fci.bu.edu.eg/)at [Banha University].
 - :trophy: 2x `ACPC` Contests.
 - :technologist: I love using Software to solve every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`, `Google Contests`.
@@ -59,7 +58,7 @@ at [Banha University].
     <a href="https://github.com/Abdelrahman-Magdii">
         <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"
             alt="GitHub" /></a>
-    <a href="https://wa.me/0201208822340">
+    <a href="https://wa.me/+0201205219374">
         <img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white"
             alt="Whatsapp" />
     </a>
