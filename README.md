@@ -11,9 +11,10 @@
 <p align="center">
     <a href="https://committers.top/egypt#ORGNAME" target="_blank">
         <img src="https://enfsgag3ayy6w9q.m.pipedream.net" alt="Abdelrahman" target="_blank" , width=46% />
+  <img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=555555&labelColor=000000&style=for-the-badge" alt="Abdelrahman" width=5.2% />
     </a>
 
-    <img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=555555&labelColor=000000&style=for-the-badge" alt="Abdelrahman" width=19.40% />
+    
 </p>
 
 
