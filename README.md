@@ -211,7 +211,7 @@ Informatics](https://fci.bu.edu.eg/)at [Banha University].
         <img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" />
     </a>
      <a href="#">
-        <img src="https://img.shields.io/badge/kali-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" />
+        <img src="https://img.shields.io/badge/kali-%2335BF5C.svg?&style=plastic&logo=kali&logoColor=white" />
     </a>
 </p>
 
