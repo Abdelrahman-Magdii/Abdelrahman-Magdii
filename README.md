@@ -1,9 +1,8 @@
-<h1 align="center"><img src="https://iili.io/HG9Lsi7.gif" width="80%"> <img
-        src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
+<h1 align="center"><img src="https://iili.io/HG9Lsi7.gif" width="80%"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 <p align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+AtCoder;Always+learning+new+things" alt="Typing SVG" />
-        </a>
+    </a>
 </p>
 
 
@@ -45,11 +44,9 @@ at [Banha University].
     <a href="https://leetcode.com/abdelrahmanmagdi527/">
         <img    src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=%6 /></a>
     &emsp;
-    <a href="https://www.codechef.com/users/abdelrahmanmag"><img src="https://img.icons8.com/color/50/000000/codechef.png"
-            alt="Code Chef" width=6% /></a>
+    <a href="https://www.codechef.com/users/abdelrahmanmag"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef" width=6% /></a>
     &emsp;
-    <a href="https://icpc.global/ICPCID/8EICMJ0Z3M93"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png"
-            alt="ICPC Global" width=6% /></a>
+    <a href="https://icpc.global/ICPCID/8EICMJ0Z3M93"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width=6% /></a>
     &emsp;
 </div>
 
