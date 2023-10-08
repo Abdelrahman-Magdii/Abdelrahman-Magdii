@@ -24,7 +24,7 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-- :school: I am a `Fresh Graduate` from the [Faculty Of Computer Science And Artificial Intelligence](https://fci.bu.edu.eg/) at [Banha University](https://www.bu.edu.eg/en/).
+- :school: I am a `Fresh Graduate` from the [Faculty Of Computer And Artificial Intelligence](https://fci.bu.edu.eg/) at [Banha University](https://www.bu.edu.eg/en/).
 - :trophy: 2x `ACPC` Contests.
 - :technologist: I love using Software to solve every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`, `Google Contests`.
