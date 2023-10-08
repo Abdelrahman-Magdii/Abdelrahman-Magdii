@@ -121,6 +121,12 @@
         <img alt="JavaScript"
             src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
     </a>
+    &emsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img alt="JavaScript" src="[https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black](https://img.shields.io/badge/angular-%23DD0031.svg?style=for- 
+                the-badge&logo=angular&logoColor=white)">
+    </a>
+ 
 </p>
 
 ### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%> Software & Tools
