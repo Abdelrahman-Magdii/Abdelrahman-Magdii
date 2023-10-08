@@ -105,8 +105,7 @@
     </a> 
     &emsp;
     <a href="https://www.python.org" target="_blank">
-        <img alt="TypeScript"
-            src=" https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
+        <img alt="TypeScript"  src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
     </a>
 </p>
 
