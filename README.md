@@ -13,9 +13,9 @@
 <br>
 
 <p align="center">
-    <a href="https://committers.top/egypt#ORGNAME" target="_blank"> <img src="https://enfsgag3ayy6w9q.m.pipedream.net"
-            alt="Abdelrahman" target="_blank" , width=46% /> </a>
-    <img src="https://komarev.com/ghpvc/?username=abdelrahman&label=Profile%20views&color=555555&labelColor=000000&style=for-the-badge" alt="Abdelrahman" width=19% />
+    <a href="https://committers.top/egypt#ORGNAME" target="_blank"> 
+     <img src="https://enfsgag3ayy6w9q.m.pipedream.net" alt="Abdelrahman" target="_blank" , width=46% /> </a>
+    <img src="https://komarev.com/ghpvc/?username=abdelrahman&label=Profile%20views&color=555555&labelColor=000000&style=for-the-badge" alt="Abdelrahman" width=16% />
 </p>
 
 
