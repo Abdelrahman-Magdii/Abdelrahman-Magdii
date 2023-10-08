@@ -125,13 +125,13 @@
         <img alt="JavaScript"
             src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
     </a>
-    &emsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img alt="JavaScript" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white">
-    </a>
       &emsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img alt="JavaScript" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white">
+    </a>
+   &emsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img alt="JavaScript" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white">
     </a>
 </p>
 
@@ -162,15 +162,6 @@
     &emsp;
     <a href="#"><img alt="OpenGL"
             src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img alt="Selenium"
-            src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img
-            src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
-    &emsp;
-    <a href="#"><img
-            src="https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=django&logoColor=white" /></a>
     &emsp;
     <a href="#"><img
             src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white" /></a>
