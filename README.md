@@ -25,7 +25,7 @@
 
 <br><br>
 - :school: I am a `Fresh Graduate` from the [Faculty of Computers &
-Informatics](https://fci.bu.edu.eg/)at [Banha University].
+Informatics](https://fci.bu.edu.eg/) at [Banha University](https://www.bu.edu.eg/en/).
 - :trophy: 2x `ACPC` Contests.
 - :technologist: I love using Software to solve every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`, `Google Contests`.
