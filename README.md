@@ -102,6 +102,11 @@
     <a href="https://www.python.org" target="_blank">
         <img alt="Python"
             src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+    </a> 
+    &emsp;
+    <a href="https://www.python.org" target="_blank">
+        <img alt="TypeScript"
+            src=" https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
     </a>
 </p>
 
@@ -125,7 +130,10 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img alt="JavaScript" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white">
     </a>
- 
+      &emsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img alt="JavaScript" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white">
+    </a>
 </p>
 
 ### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%> Software & Tools
