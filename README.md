@@ -50,7 +50,7 @@
     &emsp;
 </div>
 
- <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 <p align="center">
     <a href="mailto:abdelrahmanmagdi527@gmail.com"><img
             src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"
@@ -105,7 +105,7 @@
     </a>
 </p>
 
-### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=5%> Frontend Development
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=5%> Frontend Development
 <p align="center">
     &emsp;
     <a href="https://www.w3.org/html/" target="_blank">
@@ -131,7 +131,7 @@
     </a>
 </p>
 
-### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%> Software & Tools
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%> Software & Tools
 
 <p align="center">
     &emsp;
