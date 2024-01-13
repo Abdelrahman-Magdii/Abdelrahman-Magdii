@@ -1,7 +1,8 @@
 
  
 <p align="center">
-    <a href="https://git.io/typing-svg"> <img
+    <a href="https://git.io/typing-svg">
+     <img
             src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Contests;Pupil+on+Codeforces;Scientific+Computing;4+Kyu+on+AtCoder;Always+learning+new+things"
             alt="Typing SVG" /> </a>
 </p>
@@ -10,7 +11,7 @@
 
 <p align="center">
     <a href="https://committers.top/egypt#ORGNAME" target="_blank"> 
-     <img src="https://enfsgag3ayy6w9q.m.pipedream.net" alt="Abdelrahman" target="_blank" , width=46% /> </a>
+<!--      <img src="https://enfsgag3ayy6w9q.m.pipedream.net" alt="Abdelrahman" target="_blank" , width=46% /> </a> -->
     <img src="https://komarev.com/ghpvc/?username=abdelrahman&label=Profile%20views&color=555555&labelColor=000000&style=for-the-badge" alt="Abdelrahman" width=16% />
 </p>
 
