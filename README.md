@@ -28,8 +28,8 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science` and ` Sciencetfic Computing` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1pu8XRbktwWVPdCjGXIzaAXTJe4NbqoQD/view?usp=drive_link)).
-- :boom: You can visit [MY WEBSITE](link).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/17eeDoqdjCBPnVzVRPF2Km_DpJDhLdvS5/view?usp=sharing)).
+- :boom: You can visit [MY WEBSITE](https://abdelrahman-magdii.github.io/Portfolio.live/).
 <br>
 
 
