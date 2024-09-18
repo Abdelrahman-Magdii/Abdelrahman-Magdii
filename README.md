@@ -135,10 +135,10 @@
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=5%> Backend Development
 <p align="center">
-    &emsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img alt="spring"
-            src="https://img.shields.io/badge/springboot%20-%23F7DF1E.svg?style=plastic&logo=springboot&logoColor=green">
+      &emsp;
+    <a href="https://www.w3.org/html/" target="_blank">
+        <img alt="HTML"
+            src="https://img.shields.io/badge/springboot5%20-%23E34F26.svg?style=plastic&logo=springboot&logoColor=green">
     </a>
        
 </p>
