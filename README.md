@@ -133,6 +133,16 @@
     </a>
 </p>
 
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=5%> Backend Development
+<p align="center">
+    &emsp;
+     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img alt="JavaScript" src="https://img.shields.io/badge/spring-%23DD0031.svg?style=plastic&logo=spring&logoColor=green">
+    </a>
+
+</p>
+
+
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%> Software & Tools
 
 <p align="center">
