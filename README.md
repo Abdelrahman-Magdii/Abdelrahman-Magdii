@@ -138,7 +138,7 @@
       &emsp;
     <a href="https://www.w3.org/html/" target="_blank">
         <img alt="HTML"
-            src="https://img.shields.io/badge/springboot5%20-%23E34F26.svg?style=plastic&logo=springboot&logoColor=green">
+            src="https://img.shields.io/badge/springboot%20-%23E34F26.svg?style=plastic&logo=springboot&logoColor=green">
     </a>
        
 </p>
