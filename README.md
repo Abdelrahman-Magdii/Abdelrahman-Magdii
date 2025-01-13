@@ -35,11 +35,9 @@
 
 
 ###
-
 <div align="center">
   <img height="11" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
 </div>
-
 ###
 
 <div align="center">
@@ -48,6 +46,12 @@
 </div>
 
 ###
+<div align="center">
+  <img height="11" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
+</div>
+###
+
+
 
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
 
